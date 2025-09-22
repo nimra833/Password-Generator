@@ -88,7 +88,7 @@ btn_copy = ctk.CTkButton(master=app, text="Copy Password",
 btn_copy.place(relx=0.5, y=340, anchor="center")
 
 # Footer
-footer = ctk.CTkLabel(master=app, text="Designed with ❤️ by Nimra",
+footer = ctk.CTkLabel(master=app, text="Designed by Nimra",
                       font=("Calibri Light", 12), text_color="blue")
 footer.place(relx=0.5, y=470, anchor="center")
 
